@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/bun-bite-premium-burgers-craft-kitchen/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
