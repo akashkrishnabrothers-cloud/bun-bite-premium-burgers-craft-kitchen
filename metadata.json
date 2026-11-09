@@ -1,0 +1,6 @@
+{
+  "name": "BUN & BITE - Premium Burgers & Craft Kitchen",
+  "description": "Premium fast-food burger restaurant featuring freshly prepared gourmet burgers, crispy loaded fries, signature wraps, cold beverages, and decadent desserts with online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
